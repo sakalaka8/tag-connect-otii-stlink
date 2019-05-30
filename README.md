@@ -4,8 +4,8 @@ Simple tool to disconnect the programming lines after completion for use with ST
 ## Circuit board requirements
  * Shield that sits on top of the ST nucleo board programming part broken off: https://jeelabs.org/book/1547a/
  * 2x connector for Tag Connect cable
-   * one for RJ style https://www.digikey.com/product-detail/en/microchip-technology/TC2030-MCP-NL/TC2030-MCP-NL-ND/2125388
-   * one for IDC style https://www.digikey.com/product-detail/en/tag-connect-llc/TC2050-IDC/TC2050-IDC-ND/2605366
+   * one for RJ style https://www.digikey.com/product-detail/en/tag-connect-llc/TC2030-MCP-NL/TC2030-MCP-NLTC-ND/2666489
+   * one for IDC style https://www.digikey.com/product-detail/en/tag-connect-llc/TC2030-IDC/TC2030-IDC-ND/4571121
  * 5V signal relays on all connections from programmer to tag-connect, for example https://si.farnell.com/omron/g5v-2-4-5dc/relay-signal-dpdt-30vdc-2a/dp/9949810?st=signal%20relay
  * IDC connector for Otii power analyser
  * Status LED showing what state this is in
